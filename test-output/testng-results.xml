@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-08-12T13:49:19 BST" name="Suite" finished-at="2023-08-12T13:51:12 BST" duration-ms="112871">
+    <groups>
+    </groups>
+    <test started-at="2023-08-12T13:49:19 BST" name="Test" finished-at="2023-08-12T13:51:12 BST" duration-ms="112871">
+      <class name="ProjectSalinaka.ProductsTestCase">
+        <test-method is-config="true" signature="Login()[pri:0, instance:ProjectSalinaka.ProductsTestCase@5acf93bb]" started-at="2023-08-12T13:50:48 BST" name="Login" finished-at="2023-08-12T13:50:51 BST" duration-ms="3397" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method signature="SelectingProduct()[pri:0, instance:ProjectSalinaka.ProductsTestCase@5acf93bb]" started-at="2023-08-12T13:50:51 BST" name="SelectingProduct" finished-at="2023-08-12T13:51:12 BST" duration-ms="20190" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SelectingProduct -->
+        <test-method is-config="true" signature="Quit()[pri:0, instance:ProjectSalinaka.ProductsTestCase@5acf93bb]" started-at="2023-08-12T13:51:12 BST" name="Quit" finished-at="2023-08-12T13:51:12 BST" duration-ms="196" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Quit -->
+      </class> <!-- ProjectSalinaka.ProductsTestCase -->
+      <class name="SinginTestCases">
+        <test-method is-config="true" signature="Login()[pri:0, instance:SinginTestCases@446293d]" started-at="2023-08-12T13:49:19 BST" name="Login" finished-at="2023-08-12T13:49:25 BST" duration-ms="5622" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method signature="SingIN1()[pri:0, instance:SinginTestCases@446293d]" started-at="2023-08-12T13:49:25 BST" name="SingIN1" finished-at="2023-08-12T13:49:35 BST" duration-ms="10295" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SingIN1 -->
+        <test-method is-config="true" signature="Quit()[pri:0, instance:SinginTestCases@446293d]" started-at="2023-08-12T13:49:35 BST" name="Quit" finished-at="2023-08-12T13:49:35 BST" duration-ms="171" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Quit -->
+        <test-method is-config="true" signature="Login()[pri:0, instance:SinginTestCases@446293d]" started-at="2023-08-12T13:49:35 BST" name="Login" finished-at="2023-08-12T13:49:38 BST" duration-ms="3114" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method signature="SingIN2()[pri:0, instance:SinginTestCases@446293d]" started-at="2023-08-12T13:49:38 BST" name="SingIN2" finished-at="2023-08-12T13:49:46 BST" duration-ms="8162" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SingIN2 -->
+        <test-method is-config="true" signature="Quit()[pri:0, instance:SinginTestCases@446293d]" started-at="2023-08-12T13:49:46 BST" name="Quit" finished-at="2023-08-12T13:49:47 BST" duration-ms="156" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Quit -->
+        <test-method is-config="true" signature="Login()[pri:0, instance:SinginTestCases@446293d]" started-at="2023-08-12T13:49:47 BST" name="Login" finished-at="2023-08-12T13:49:50 BST" duration-ms="3366" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method signature="SingIN3()[pri:0, instance:SinginTestCases@446293d]" started-at="2023-08-12T13:49:50 BST" name="SingIN3" finished-at="2023-08-12T13:49:58 BST" duration-ms="7853" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SingIN3 -->
+        <test-method is-config="true" signature="Quit()[pri:0, instance:SinginTestCases@446293d]" started-at="2023-08-12T13:49:58 BST" name="Quit" finished-at="2023-08-12T13:49:58 BST" duration-ms="134" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Quit -->
+      </class> <!-- SinginTestCases -->
+      <class name="ProjectSalinaka.SignUpTestCases">
+        <test-method is-config="true" signature="Login()[pri:0, instance:ProjectSalinaka.SignUpTestCases@1a18644]" started-at="2023-08-12T13:49:58 BST" name="Login" finished-at="2023-08-12T13:50:01 BST" duration-ms="3431" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method signature="SingUP1()[pri:0, instance:ProjectSalinaka.SignUpTestCases@1a18644]" started-at="2023-08-12T13:50:01 BST" name="SingUP1" finished-at="2023-08-12T13:50:14 BST" duration-ms="13124" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SingUP1 -->
+        <test-method is-config="true" signature="Quit()[pri:0, instance:ProjectSalinaka.SignUpTestCases@1a18644]" started-at="2023-08-12T13:50:14 BST" name="Quit" finished-at="2023-08-12T13:50:15 BST" duration-ms="129" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Quit -->
+        <test-method is-config="true" signature="Login()[pri:0, instance:ProjectSalinaka.SignUpTestCases@1a18644]" started-at="2023-08-12T13:50:15 BST" name="Login" finished-at="2023-08-12T13:50:18 BST" duration-ms="3659" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method signature="SingUP2()[pri:0, instance:ProjectSalinaka.SignUpTestCases@1a18644]" started-at="2023-08-12T13:50:18 BST" name="SingUP2" finished-at="2023-08-12T13:50:31 BST" duration-ms="13158" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SingUP2 -->
+        <test-method is-config="true" signature="Quit()[pri:0, instance:ProjectSalinaka.SignUpTestCases@1a18644]" started-at="2023-08-12T13:50:31 BST" name="Quit" finished-at="2023-08-12T13:50:32 BST" duration-ms="109" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Quit -->
+        <test-method is-config="true" signature="Login()[pri:0, instance:ProjectSalinaka.SignUpTestCases@1a18644]" started-at="2023-08-12T13:50:32 BST" name="Login" finished-at="2023-08-12T13:50:35 BST" duration-ms="3226" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method signature="SingUP3()[pri:0, instance:ProjectSalinaka.SignUpTestCases@1a18644]" started-at="2023-08-12T13:50:35 BST" name="SingUP3" finished-at="2023-08-12T13:50:48 BST" duration-ms="13118" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SingUP3 -->
+        <test-method is-config="true" signature="Quit()[pri:0, instance:ProjectSalinaka.SignUpTestCases@1a18644]" started-at="2023-08-12T13:50:48 BST" name="Quit" finished-at="2023-08-12T13:50:48 BST" duration-ms="164" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Quit -->
+      </class> <!-- ProjectSalinaka.SignUpTestCases -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
